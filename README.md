@@ -6,4 +6,6 @@ Este repositório é parte de um treinamento de git e gitHub feito na Digital In
 ### Receitas
 
  - Strogonoff de Frango
+ - Bolo de Cenoura
+
 
